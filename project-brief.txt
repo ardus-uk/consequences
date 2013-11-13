@@ -1,0 +1,48 @@
+Consequences
+
+Based on the parlour game.
+
+Provided with a number of stories in a prescribed line-by-line standard format, the program produces stories in the same format, each line being the corresponding line in (a different) one of the given stories.
+
+The given stories (data) will be made available to the program as simple text files.
+
+Line number			Content	
+1					Man's name
+2					Woman's name
+3					Where they met
+4					What he said	
+5					What she said	
+6					What the consequence was ( or what happened next)	
+7					What the world said
+
+Possible plan of action
+
+Program 1
+Open a file and print out its contents line-by-line in the same order.
+
+Program 2
+Open a file and print out its contents line-by-line in reverse order.
+
+Program 3
+Open a file and print out its contents line-by-line in the same order with connecting words (like "met", "at" and so on) between the lines.
+
+Program 4
+Open two files and print the odd-numbered lines from the first and the even-numbered lines from the second, interleaved and in order.
+
+Program 5
+Open two files, choose appropriate lines at random from each, and print them out in order.
+
+Program 6
+Open all the files in a directory, choose appropriate lines at random from each, and print them out in order, with connecting words between the lines.
+
+Extension 1
+A separate program to prompt for input and generate the data text files.
+
+Other Extensions
+Output in different formats?
+Include photographs in the story?
+
+
+
+
+
